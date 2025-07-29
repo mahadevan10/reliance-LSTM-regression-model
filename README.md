@@ -47,15 +47,10 @@ This project leverages advanced deep learning techniques to predict whether Reli
 4. Run the notebooks or scripts in `src/` to preprocess data, engineer features, and train models
 
 ## Results
-- Achieved high accuracy in predicting next-day price movement
+- The accuracy is low but in the real market scenario, financial markets are completely random in day to day movements but i was able to bring r2 score to a minimum after experimentaions with the model tuning and feature engineering
 - Visualizations reveal key relationships between volume, price, and technical indicators
 - Modular code allows for easy experimentation with new features and models
 
-## Why This Project?
-This repository showcases:
-- Real-world application of deep learning to financial time series
-- End-to-end workflow for stock prediction
-- Clean, well-documented code and reproducible results
 
-## Contact
-For questions or collaboration, feel free to reach out via GitHub Issues.
+
+
