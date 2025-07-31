@@ -1,5 +1,5 @@
 
-# Reliance LSTM Classifier
+# Reliance LSTM Regression Model
 
 Predicting Stock Price Movements with Deep Learning
 
